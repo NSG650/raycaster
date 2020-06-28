@@ -12,7 +12,7 @@ g++ raycaster_mac.c -o yey -framework GLUT -framework OpenGL
 if you are using linux download the raycaster_linux.c file
 and compile it and run it with a 
 ```
-g++ main.c -lglut -lGL -lGLU -o e
+g++ raycaster_linux.c -lglut -lGL -lGLU -o e
 #run it with
 ./e
 ```
