@@ -1,6 +1,6 @@
 # Raycaster
 A simple Raycaster in c/c++
-# MacOS
+# macOS
 if you are using macOS then download the raycaster_mac.c file
 and compile and run it with 
 ```
